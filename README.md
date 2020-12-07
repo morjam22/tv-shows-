@@ -1,9 +1,9 @@
 # tv-shows-
 
-Top 5 TV Shows
+Top 5 shows watched in 2020
 
 Fresh Prince
 Insecure
-Shitts Creek
+Lovecraft Country
 Breaking Bad
 Succession
